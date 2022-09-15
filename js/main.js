@@ -78,7 +78,7 @@ burger.addEventListener('click', function (e) {
 });
 "use strict";
 
-console.log('maxgraph');
+console.log('Dmitriy Nosikov');
 "use strict";
 
 var modal = new GraphModal();
